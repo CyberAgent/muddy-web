@@ -22,4 +22,5 @@ Muddy = 泥臭いとして、Webフロントエンドの開発現場における
 
 隔週で各媒体にて配信される Podcast です。[Whisper](https://github.com/openai/whisper) を使った書き起こしを本レポジトリで配布しています。
 
-https://anchor.fm/muddy-web
+- [Podcast 配信先](https://anchor.fm/muddy-web)
+- [各回の書き起こし](https://github.com/CyberAgent/muddy-web/tree/main/podcast)
